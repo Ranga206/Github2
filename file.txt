@@ -1,0 +1,1 @@
+This is a new test_file for the branch git2.
